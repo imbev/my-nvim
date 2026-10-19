@@ -45,6 +45,7 @@
         ruff.enable = true;
         nixd.enable = true;
         emmet_language_server.enable = true;
+        html.enable = true;
       };
     };
 
