@@ -41,6 +41,7 @@
           installRustc = true;
         };
 
+        clangd.enable = true;
         basedpyright.enable = true;
         ruff.enable = true;
         nixd.enable = true;
